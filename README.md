@@ -1,7 +1,7 @@
 <h1 align="center">ACHRAF LAFKIRI</h1>
 
 <h3 align="center">
-  I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages
+  🏫 I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages
 I've been working on front-end programming on javascript, and React for a while, and I've been working on programming for about 2 years.
 </h3>
 
@@ -24,7 +24,7 @@ I've been working on front-end programming on javascript, and React for a while,
 
 
 
-## My Skills
+## 🛠 Languages and Tools
 
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></span>
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></span>
@@ -35,6 +35,6 @@ I've been working on front-end programming on javascript, and React for a while,
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'></span> 
   
 
-## You can reach me:
+## 📫 How to reach me
 <p>achraf.lafkiri.2@gmail.com</p>
 
