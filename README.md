@@ -5,20 +5,6 @@
 I've been working on front-end programming on javascript, and React for a while, and I've been working on programming for about 2 years.
 </h3>
 
-<p></p><p></p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=achrafLAFKIRI&style=for-the-badge&color=blueviolet" alt="achrafLAFKIRI" />
-</div>
-<p></p><p></p>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=achrafLAFKIRI&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="achrafLAFKIRI" />
-</div>
-<p></p><p></p>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=achrafLAFKIRI&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="achrafLAFKIRI" />
-</div>
-
 - 🌱 I’m currently learning **Node.js, mongoDB**
 
 - 💬 Ask me about **PHP, Javascript, React**
