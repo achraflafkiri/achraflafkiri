@@ -1,7 +1,5 @@
 <h1 align="center">ACHRAF LAFKIRI</h1>
 
-<center><img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="LAFKIRI" /></center>
-
 <h3 align="center">
   I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages
 I've been working on front-end programming on javascript, and React for a while, and I've been working on programming for about 2 years.
@@ -25,6 +23,8 @@ I've been working on front-end programming on javascript, and React for a while,
 
 - 💬 Ask me about **PHP, Javascript, React**
 
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="LAFKIRI" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/achrafLAFKIRI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="achrafLAFKIRI" height="30" width="40" /></a>
@@ -43,23 +43,12 @@ I've been working on front-end programming on javascript, and React for a while,
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></span>
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></span>
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></span>
-    <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></span> 
+  <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></span> 
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></span>
-  <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'></span>
-  <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'></span>
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></span>
-  <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></span>
-  <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></span>
-  <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'></span>
-  <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gulp.svg'></span>
   <span><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'></span> 
   
 
-## Contact Me
-
-<p>achraflr1@gmail.com</p>
-
-<a href = '#'>
-  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
-</a>
+## You can reach me:
+<p>achraf.lafkiri.2@gmail.com</p>
 
