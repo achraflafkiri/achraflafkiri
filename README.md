@@ -1,13 +1,11 @@
-<h1 align="center">ACHRAF LAFKIRI</h1>
-
-
 <h3 align="left">
   A passionate frontend developer from Morocco.
 </h3>
 
 <hr>
 <br><br>
-- 🌱 I’m currently learning **Node.js**
+
+- 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **PHP, Javascript, React**
 
