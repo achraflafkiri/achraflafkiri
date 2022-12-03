@@ -1,11 +1,10 @@
 <h1 align="center">ACHRAF LAFKIRI</h1>
 
 <h3 align="center">
-  🏫 I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages
-I've been working on front-end programming on javascript, and React for a while, and I've been working on programming for about 2 years.
+  🏫 A passionate frontend developer from Egypt.
 </h3>
 
-- 🌱 I’m currently learning **Node.js, mongoDB**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **PHP, Javascript, React**
 
